@@ -1,6 +1,6 @@
 # Olá 👋
 
-Meu nome é Julio Cesar A. Lobo, sou desenvolvedor Full Stack, mas gosto mais de backend, sou do Norte do estado do Rio de Janeiro, Brasil.
+Meu nome é Fellipe , sou desenvolvedor Full Stack, mas gosto mais de backend, sou do Norte do estado do Rio de Janeiro, Brasil.
 Apaixonado por tecnologia e desenvolvimento de plataformas Web, com conhecimentos de PHP, Javascript, CSS3, HTML, MySQL, Laravel, CodeIgniter, Node.js, Vue.js, React, padrões MVC e muito mais.
 
 ## 👨🏽‍💻🚀 Principais Tecnologias
@@ -11,11 +11,11 @@ Apaixonado por tecnologia e desenvolvimento de plataformas Web, com conhecimento
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/juliolobo/juliolobo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliolobo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="juliolobo's GitHub Stats" />
+<a href="https://github.com/Fesantt/Fesantt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fesantt&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Fesantt's GitHub Stats" />
 </a>
-<a href="https://github.com/juliolobo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juliolobo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="juliolobo's GitHub Stats" />
+<a href="https://github.com/Fesantt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fesantt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Fesantt's GitHub Stats" />
 </a>
 
 ## 🤝 Entre em contato
@@ -23,9 +23,9 @@ Apaixonado por tecnologia e desenvolvimento de plataformas Web, com conhecimento
 
 <a href="https://wa.me/5521964218122?text=Venho%20do%20Github%20e%20gostaria%20de%20tirar%20uma%20duvida" alt="Connect on Whatsapp"> 
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
-</a> <a href="https://www.linkedin.com/in/juliolobo" alt="Connect on LinkedIn"> 
+</a> <a href="https://www.linkedin.com/in/Fesantt" alt="Connect on LinkedIn"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> <a href="mailto:juliolobo@lobohost.com.br">
+</a> <a href="mailto:Fesantt@lobohost.com.br">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
