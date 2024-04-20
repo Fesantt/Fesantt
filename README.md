@@ -1,6 +1,6 @@
 # Olá 👋
 
-Meu nome é Fellipe , sou desenvolvedor Full Stack, mas gosto mais de backend, sou do Norte do estado do Rio de Janeiro, Brasil.
+Meu nome é Fellipe, sou desenvolvedor Full Stack, mas gosto mais de backend, sou do Norte do estado do Rio de Janeiro, Brasil.
 Apaixonado por tecnologia e desenvolvimento de plataformas Web, com conhecimentos de PHP, Javascript, CSS3, HTML, MySQL, Laravel, CodeIgniter, Node.js, Vue.js, React, padrões MVC e muito mais.
 
 ## 👨🏽‍💻🚀 Principais Tecnologias
