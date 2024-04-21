@@ -1,12 +1,12 @@
 # Olá 👋
 
 Meu nome é Fellipe, sou desenvolvedor Full Stack, mas gosto mais de backend, sou do Norte do estado do Rio de Janeiro, Brasil.
-Apaixonado por tecnologia e desenvolvimento de plataformas Web, com conhecimentos de PHP, Javascript, CSS3, HTML, MySQL, Laravel, CodeIgniter, Node.js, Vue.js, React, padrões MVC e muito mais.
+Apaixonado por tecnologia e desenvolvimento de plataformas Web, com conhecimentos de PHP, Flutter, Dart,  MySQL,  CodeIgniter,  padrões MVC e muito mais.
 
 ## 👨🏽‍💻🚀 Principais Tecnologias
 
 
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-blue.svg?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-orange.svg?&style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-%233776AB.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-%23D14836.svg?&style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/CodeIgniter-%23D14836.svg?&style=for-the-badge&logo=codeigniter&logoColor=white" />
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /> <img src="[https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white](https://img.shields.io/badge/flutter-%23F7DF1E.svg?&style=for-the-badge&logo=Flutter&logoColor=white)" /> <img src="https://img.shields.io/badge/CSS3-blue.svg?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-orange.svg?&style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-%233776AB.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-%23D14836.svg?&style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/CodeIgniter-%23D14836.svg?&style=for-the-badge&logo=codeigniter&logoColor=white" />
 
 
 ## &#x1f4c8; GitHub Stats
