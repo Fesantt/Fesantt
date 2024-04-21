@@ -1,12 +1,11 @@
 # Olá 👋
 
-Meu nome é Fellipe, sou desenvolvedor Full Stack, mas gosto mais de backend, sou do Norte do estado do Rio de Janeiro, Brasil.
-Apaixonado por tecnologia e desenvolvimento de plataformas Web, com conhecimentos de PHP, Flutter, Dart,  MySQL,  CodeIgniter,  padrões MVC e muito mais.
+Olá! Me chamo Fellipe, um desenvolvedor apaixonado pelo mundo do backend, natural do estado do Acre, Brasil. Com um forte foco em criar soluções robustas e eficientes, sou especializado em linguagens como Flutter, Dart, Python e PHP. Minha habilidade em MySQL adiciona um toque especial à minha capacidade de construir e gerenciar bancos de dados, garantindo que minhas aplicações sejam não apenas funcionais, mas também escaláveis e seguras. Estou sempre pronto para enfrentar novos desafios e colaborar em projetos inovadores que ampliem os horizontes da tecnologia.
 
 ## 👨🏽‍💻🚀 Principais Tecnologias
 
 
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /> <img src="[https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white](https://img.shields.io/badge/flutter-%23F7DF1E.svg?&style=for-the-badge&logo=Flutter&logoColor=white)" /> <img src="https://img.shields.io/badge/CSS3-blue.svg?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-orange.svg?&style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-%233776AB.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-%23D14836.svg?&style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/CodeIgniter-%23D14836.svg?&style=for-the-badge&logo=codeigniter&logoColor=white" />
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/flutter-%23F7DF1E.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /> <img src="https://img.shields.io/badge/dart-%23F7DF1E.svg?&style=for-the-badge&logo=Dart&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> 
 
 
 ## &#x1f4c8; GitHub Stats
@@ -21,13 +20,17 @@ Apaixonado por tecnologia e desenvolvimento de plataformas Web, com conhecimento
 ## 🤝 Entre em contato
 
 
-<a href="https://wa.me/5521964218122?text=Venho%20do%20Github%20e%20gostaria%20de%20tirar%20uma%20duvida" alt="Connect on Whatsapp"> 
+<a href="https://wa.me/5567996758663?text=Venho%20do%20Github%20e%20gostaria%20de%20tirar%20uma%20duvida" alt="Connect on Whatsapp"> 
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
-</a> <a href="https://www.linkedin.com/in/Fesantt" alt="Connect on LinkedIn"> 
+  </a>
+<!--
+
+  
+  <a href="https://www.linkedin.com/in/Fesantt" alt="Connect on LinkedIn"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> <a href="mailto:Fesantt@lobohost.com.br">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+</a> -->
 
 <!-- links to social media icons -->
 
