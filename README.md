@@ -1,6 +1,6 @@
 # Olá 👋
 
-Olá! Me chamo Fellipe, um desenvolvedor apaixonado pelo mundo do backend, natural do estado do Acre, Brasil. Com um forte foco em criar soluções robustas e eficientes, sou especializado em linguagens como Flutter, Dart, Python e PHP. Minha habilidade em MySQL adiciona um toque especial à minha capacidade de construir e gerenciar bancos de dados, garantindo que minhas aplicações sejam não apenas funcionais, mas também escaláveis e seguras. Estou sempre pronto para enfrentar novos desafios e colaborar em projetos inovadores que ampliem os horizontes da tecnologia.
+Olá! Me chamo Fellipe, um desenvolvedor apaixonado pelo mundo do backend, natural do estado do Acre, Brasil. Com um forte foco em criar soluções robustas e eficientes, sou iniciante em linguagens como Flutter, Dart, Python e PHP. Minha habilidade em MySQL adiciona um toque especial à minha capacidade de construir e gerenciar bancos de dados, garantindo que minhas aplicações sejam não apenas funcionais, mas também escaláveis e seguras. Estou sempre pronto para enfrentar novos desafios e colaborar em projetos inovadores que ampliem os horizontes da tecnologia.
 
 ## 👨🏽‍💻🚀 Principais Tecnologias
 
