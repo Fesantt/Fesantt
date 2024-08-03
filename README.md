@@ -18,12 +18,6 @@ Olá! Me chamo Fellipe, um desenvolvedor apaixonado pelo mundo do backend, natur
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fesantt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Fesantt's GitHub Stats" />
 </a>
 
-## 🤝 Entre em contato
-
-
-<a href="https://wa.me/5567996758663?text=Venho%20do%20Github%20e%20gostaria%20de%20tirar%20uma%20duvida" alt="Connect on Whatsapp"> 
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
-  </a>
 <!--
 
   
