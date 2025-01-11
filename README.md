@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Felipe Santt </h2>
+
 
 
 # 💻 Tech Stack:
