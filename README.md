@@ -15,6 +15,44 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
+# 🔐 Reverse Engineering & Security
+
+### 🛠️ Tools
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-004C97?style=for-the-badge&logoColor=white)
+![x64dbg](https://img.shields.io/badge/x64dbg-840010?style=for-the-badge&logoColor=white)
+![dnSpy](https://img.shields.io/badge/dnSpy-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-CC0000?style=for-the-badge&logoColor=white)
+![PE-bear](https://img.shields.io/badge/PE--bear-B45309?style=for-the-badge&logoColor=white)
+![Detect-It-Easy](https://img.shields.io/badge/Detect--It--Easy-0F6E56?style=for-the-badge&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
+
+### 🔬 Arsenal
+
+| Área | Ferramentas | Descrição |
+|------|-------------|-----------|
+| Static Analysis | IDA Pro · Ghidra | Desmontagem e decompilação de binários sem execução |
+| Dynamic Debugging | x64dbg · x32dbg | Breakpoints, memory dumps e tracing em runtime |
+| .NET Reversing | dnSpy · ILSpy | Decompilação e edição de assemblies .NET/Mono |
+| Malware Analysis | PE-bear · DiE | Unpacking, análise de comportamento e IoCs |
+| Web Security | Burp Suite | Interceptação de tráfego e testes de API |
+| Network Forensics | Wireshark | Captura e análise de pacotes e protocolos |
+
+### ⚔️ Foco
+```
+01  Binary Exploitation & Cracking
+02  Assembly x86 / x64
+03  Unpacking & Anti-debug bypass
+04  Patch de binários e keygenning
+05  CTF Challenges (RE category)
+06  Análise de malware & IoCs
+```
+
+### 🏆 Plataformas
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://www.hackthebox.com/)
+[![Crackmes](https://img.shields.io/badge/Crackmes.one-1a1a2e?style=for-the-badge&logoColor=white)](https://crackmes.one/)
+[![CTFtime](https://img.shields.io/badge/CTFtime-00457C?style=for-the-badge&logoColor=white)](https://ctftime.org/)
+---
 # 📊 GitHub Stats
 
 <div align="center">
