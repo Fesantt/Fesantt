@@ -54,25 +54,5 @@
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://www.hackthebox.com/)
 [![Crackmes](https://img.shields.io/badge/Crackmes.one-1a1a2e?style=for-the-badge&logoColor=white)](https://crackmes.one/)
 [![CTFtime](https://img.shields.io/badge/CTFtime-00457C?style=for-the-badge&logoColor=white)](https://ctftime.org/)
----
-# 📊 GitHub Stats
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Fesantt&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fesantt&theme=dark&hide_border=false" />
-    </td>
-  </tr>
-</table>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fesantt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
----
 
 <img src="https://github.com/Fesantt/Fesantt/blob/output/snake.svg" alt="Snake animation" />
